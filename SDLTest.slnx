@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SDLTest/SDLTest.vcxproj" Id="a7a27539-996b-4535-a754-93463edacdb5" />
+</Solution>
